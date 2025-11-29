@@ -21,10 +21,8 @@ public class Exer3 {
 			System.out.println("Entre com o valor da posição :" + i);
 			vetorA[i] = scan.nextInt();
 			vetorB[i] = vetorA[i] * vetorA[i];
-
-	
-
 		}
+		
 		System.out.print("Vetor A - ");
 		for (int i=0; i<vetorA.length; i++) {
 			System.out.print(vetorA[i] +" ");
@@ -38,5 +36,5 @@ public class Exer3 {
 		}
 
 	}
-
+	
 }
