@@ -32,7 +32,7 @@ public class Exer2 {
 			
 		
 		int maiorL5 = 0;
-		int menorL5 = 0;
+		int menorL5 = 101;
 		int linha5 = 5;
 		
 		for (int i=0; i<numerosAleatorios[linha5].length; i++) {
@@ -47,7 +47,7 @@ public class Exer2 {
 		System.out.println("menor valor da linha 5 = " + menorL5);
 		
 		int maiorC7=0;
-		int menorC7=0;
+		int menorC7= 101;
 		int col7 = 7;
 		
 		for(int i =0; i<numerosAleatorios.length; i++) {
