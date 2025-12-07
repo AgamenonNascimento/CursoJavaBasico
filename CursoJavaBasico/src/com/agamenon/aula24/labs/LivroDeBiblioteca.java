@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class LivroDeBiblioteca {
 
-	public static void main(String[] args) {
+	
 		String nome;
 		String autor;
 		int numPaginas;
@@ -17,4 +17,4 @@ public class LivroDeBiblioteca {
 
 	}
 
-}
+
