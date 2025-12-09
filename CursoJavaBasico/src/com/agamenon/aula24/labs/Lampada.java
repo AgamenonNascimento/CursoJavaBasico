@@ -10,5 +10,9 @@ public class Lampada {
 	
 	String[] tipos = new String[5];
 	
+	
+		
+	}
+	
 
-}
+
