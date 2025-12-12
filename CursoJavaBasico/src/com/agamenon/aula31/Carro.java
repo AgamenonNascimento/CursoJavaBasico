@@ -1,6 +1,6 @@
 package com.agamenon.aula31;
 
-class Carro {
+public class Carro {
 	
 	String carro;
 	String modelo;
