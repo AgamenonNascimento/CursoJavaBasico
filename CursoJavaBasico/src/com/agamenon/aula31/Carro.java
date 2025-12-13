@@ -2,7 +2,7 @@ package com.agamenon.aula31;
 
 public class Carro {
 	
-	String carro;
+	String marca;
 	String modelo;
 	int numPassageiros;
 	double capCombustivel;
