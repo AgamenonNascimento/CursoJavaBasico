@@ -12,5 +12,7 @@ public class Exer02 {
 	static void imprimirTela(int num) {
 		System.out.println(num);
 	}
+	
+	
 
 }
