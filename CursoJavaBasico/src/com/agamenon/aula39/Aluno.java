@@ -5,6 +5,10 @@ public class Aluno extends Pessoa {
 	private String curso;
 	private double[] notas;
 	
+	public void verificarAcesso() {
+		
+	}
+	
 	
 	
 	public Aluno() {

@@ -7,6 +7,8 @@ public class Pessoa {
 	private String telefoneCelular;
 	private String cpf;
 	
+	protected String nomeVisibilidade;
+	
 	
 	
 	public Pessoa() {
