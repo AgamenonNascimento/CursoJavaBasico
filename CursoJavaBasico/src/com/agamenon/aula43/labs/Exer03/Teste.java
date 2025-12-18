@@ -28,7 +28,7 @@ public class Teste {
 		animais[1] = tubarao;
 		animais[2] = urso;
 		
-		System.out.println("Zoo");
+		System.out.println("Zoo:");
 		System.out.println("--------------");
 		for (Animal animal: animais) {
 			System.out.println(animal.toString());
