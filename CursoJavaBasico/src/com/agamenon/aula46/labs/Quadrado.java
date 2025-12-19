@@ -10,6 +10,12 @@ public class Quadrado extends Figura2D {
 	public void setLado(double lado) {
 		this.lado = lado;
 	}
+
+	@Override
+	public double calcularArea() {
+		
+		return lado * lado;
+	}
 	
 	
 }
